@@ -1,0 +1,16 @@
+ul {
+  color: blue;
+}
+
+.raudonas{
+  color: red;
+}
+
+.aukstis {
+  width: 100px;
+  height: 100px;
+}
+
+li:nth-of-type(even){
+  font-weight: bold;
+}
