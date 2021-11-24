@@ -14,3 +14,20 @@ ul {
 li:nth-of-type(even){
   font-weight: bold;
 }
+
+body {
+  background-color: antiquewhite;
+}
+header {
+  background-color: lightpink;
+}
+aside {
+  background-color: cadetblue;
+}
+main {
+  background-color: yellow;
+}
+footer {
+  background-color: #232323;
+  color: darkgray;
+}
